@@ -1,4 +1,3 @@
-# Raycast-Teste
 
 >[!Important]
  > `Projeto:`
