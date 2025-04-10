@@ -17,6 +17,10 @@ A nossa cena consiste em um cubo que vira junto da tela, na frente de cinco cír
 
 Abubluble
 
+![image](https://github.com/user-attachments/assets/1e196407-0398-484b-8b6e-665a0a69881a)
+
+- Void Start:
+
 ### Raycast
 
 No início do script, são criadas classes para o Raio, Acerto, Cor e o Ponto de acerto.
