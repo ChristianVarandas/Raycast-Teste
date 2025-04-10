@@ -9,4 +9,4 @@
 
 ## Sobre a cena
 
-A nossa cena consiste em um cubo que vira junto da tela, cercado por 10 círculos. Ao virar o mouse tanto na vertical quanto na diagonal, a câmera e o cubo viram junto. Clicando com o mouse em algum dos círculos, ele lança um raio, que se o acertar, o destrói. Caso erre, nada acontece.
+A nossa cena consiste em um cubo que vira junto da tela, cercado por 10 círculos. Ao virar o mouse tanto na vertical quanto na horizontal, a câmera e o cubo viram junto. Clicando com o mouse em algum dos círculos, ele lança um raio, que se o acertar, o destrói. Caso erre, nada acontece.
