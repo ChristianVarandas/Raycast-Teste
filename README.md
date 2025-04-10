@@ -44,5 +44,5 @@ No início do script, são criadas classes para o Raio, Acerto, Cor e o Ponto de
 ## Avaliação da dupla
 
 - Para não haver confusão na leitura: A avaliação de um integrante será escrita pelo outro, ou seja, onde estiver o nome de um, o outro integrante que escreveu.<br>
-`Gabriel Barbosa`:<br>
+`Gabriel Barbosa`: Gabriel fez a parte dos códigos, enquanto eu o auxiliava com erros. Enquanto conversamos me ajudou muito com algumas dúvidas, fez um ótimo trabalho.<br>
 `Christian Varandas`:
