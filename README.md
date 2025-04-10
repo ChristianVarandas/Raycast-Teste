@@ -21,6 +21,10 @@ Abubluble
 
 - Void Start:
 
+![image](https://github.com/user-attachments/assets/05337117-2c98-4b00-8083-812219bcea78)
+
+- Void Update:
+
 ### Raycast
 
 No início do script, são criadas classes para o Raio, Acerto, Cor e o Ponto de acerto.
