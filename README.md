@@ -28,3 +28,7 @@ No início do script, são criadas classes para o Raio, Acerto, Cor e o Ponto de
 ![image](https://github.com/user-attachments/assets/57755112-12b7-4137-861e-32d4d74ac89d)
 
 - Void Lancar: Nesse método, ele pega as classes do raio e cor. Primeiramente mostrando no console o ponto de origem e a direção do raio. Logo depois, se o alvo for acertado (pegando a classe do ponto de acerto), ele transforma o objeto, e pega sua tag. Por fim, se a tag for "alvo", ele utiliza o comando para destruir o objeto, caso contrário, uma mensagem aparece no console avisando do erro.
+
+![image](https://github.com/user-attachments/assets/f63a8d74-a7c9-4b3b-854c-5fe178e3909d)
+
+## Avaliação da dupla
