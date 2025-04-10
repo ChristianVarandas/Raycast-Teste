@@ -21,4 +21,6 @@ Abubluble
 
 No início do script, são criadas classes para o Raio, Acerto, Cor e o Ponto de acerto.
 
-- Void Update: No update, 
+- Void Update: No update, ele mostra que se clicarmos no botão esquerdo do mouse, ele pega a posição do mesmo na tela, e chama o método Lancar.
+
+- Void Lancar:
