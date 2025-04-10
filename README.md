@@ -19,4 +19,4 @@ Abubluble
 
 ### Raycast
 
-abubluble 2
+No início do script, são criadas classes para o Raio, Acerto, Cor e 
