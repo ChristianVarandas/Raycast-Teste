@@ -15,15 +15,15 @@ A nossa cena consiste em um cubo que vira junto da tela, na frente de cinco cír
 
 ### Movimento
 
-Abubluble
+No início do código para movimento, ele cria classes para Rotação, Sensibilidade, e um valor máximo e mínimo para tela na vertical.
 
 ![image](https://github.com/user-attachments/assets/1e196407-0398-484b-8b6e-665a0a69881a)
 
-- Void Start:
+- Void Start: Ele pega o rigidbody do objeto, e caso ele não seja nulo, ele pode mudar sua rotação.
 
 ![image](https://github.com/user-attachments/assets/05337117-2c98-4b00-8083-812219bcea78)
 
-- Void Update:
+- Void Update: Caso o jogador mova no eixo X, ele se move multiplicando pela sensibilidade horizontal. E caso ele mova no eixo Y, ele multiplica pela sensibilidade vertical.
 
 ![image](https://github.com/user-attachments/assets/7681949b-fc3e-4c86-b9d7-26156f7c62dc)
 
