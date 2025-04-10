@@ -23,4 +23,4 @@ No início do script, são criadas classes para o Raio, Acerto, Cor e o Ponto de
 
 - Void Update: No update, ele mostra que se clicarmos no botão esquerdo do mouse, ele pega a posição do mesmo na tela, e chama o método Lancar.
 
-- Void Lancar: Nesse método, ele pega as classes do raio e cor. Primeiramente mostrando no console o ponto de origem e a direção do raio.
+- Void Lancar: Nesse método, ele pega as classes do raio e cor. Primeiramente mostrando no console o ponto de origem e a direção do raio. Logo depois, se o alvo for acertado (pegando a classe do ponto de acerto), ele transforma o objeto, e pega sua tag. Por fim, se a tag for "alvo", ele utiliza o comando para destruir o objeto, caso contrário, uma mensagem aparece no console avisando do erro.
