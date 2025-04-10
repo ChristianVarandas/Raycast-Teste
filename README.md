@@ -42,3 +42,7 @@ No início do script, são criadas classes para o Raio, Acerto, Cor e o Ponto de
 ![image](https://github.com/user-attachments/assets/f63a8d74-a7c9-4b3b-854c-5fe178e3909d)
 
 ## Avaliação da dupla
+
+- Para não haver confusão na leitura: A avaliação de um integrante será escrita pelo outro, ou seja, onde estiver o nome de um, o outro integrante que escreveu.
+`Gabriel Barbosa`:
+`Christian Varandas`:
