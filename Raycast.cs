@@ -6,7 +6,6 @@ public class Raycast : MonoBehaviour
     Ray ray;
     RaycastHit hitdata;
     Color cor;
-    Vector3 point;
 
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -28,7 +27,7 @@ public class Raycast : MonoBehaviour
     private void Lancar(Ray ray, Color cor)
     {
         Debug.Log("Origem: " + ray.origin);
-        Debug.Log("Direção: " + ray.direction);
+        Debug.Log("DireÃ§Ã£o: " + ray.direction);
         
 
         if (Physics.Raycast(ray, out hitdata))
