@@ -29,15 +29,16 @@ No início do código para movimento, ele cria classes para Rotação, Sensibili
 
 ### Raycast
 
-No início do script, são criadas classes para o Raio, Acerto, Cor e o Ponto de acerto.
+No início do script, são criadas classes para o Raio, Acerto, Cor.
 
-![image](https://github.com/user-attachments/assets/936859bf-44d1-4d72-bfe1-e2788c5df16e)
+![image](https://github.com/user-attachments/assets/68a307bb-7daf-415d-a7a8-af6b992b4af1)
+
 
 - Void Update: No update, ele mostra que se clicarmos no botão esquerdo do mouse, ele pega a posição do mesmo na tela, e chama o método Lancar.
 
 ![image](https://github.com/user-attachments/assets/57755112-12b7-4137-861e-32d4d74ac89d)
 
-- Void Lancar: Nesse método, ele pega as classes do raio e cor. Primeiramente mostrando no console o ponto de origem e a direção do raio. Logo depois, se o alvo for acertado (pegando a classe do ponto de acerto), ele transforma o objeto, e pega sua tag. Por fim, se a tag for "alvo", ele utiliza o comando para destruir o objeto, caso contrário, uma mensagem aparece no console avisando do erro.
+- Void Lancar: Nesse método, ele pega as classes do raio e cor. Primeiramente mostrando no console o ponto de origem e a direção do raio. Logo depois, se o alvo for acertado, ele transforma o objeto, e pega sua tag. Por fim, se a tag for "alvo", ele utiliza o comando para destruir o objeto, caso contrário, uma mensagem aparece no console avisando do erro.
 
 ![image](https://github.com/user-attachments/assets/f63a8d74-a7c9-4b3b-854c-5fe178e3909d)
 
