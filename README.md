@@ -6,6 +6,7 @@
 >- Escola: Etec Prof. Basilides de Godoy.
 >- Sobre: Repositório para a documentação de uma cena utilizada para teste do Raycast, do unity.
 >- Link: [(Projeto)](https://drive.google.com/drive/folders/1EityF9Wh-_7QN-PcnipeE2_DY5GMhS5X?usp=drive_link)
+>- Video: Junto do arquivo no drive
 
 ## Sobre a cena
 
@@ -46,4 +47,4 @@ No início do script, são criadas classes para o Raio, Acerto, Cor.
 
 - Para não haver confusão na leitura: A avaliação de um integrante será escrita pelo outro, ou seja, onde estiver o nome de um, o outro integrante que escreveu.<br>
 `Gabriel Barbosa`: Gabriel fez a parte dos códigos, enquanto eu o auxiliava com erros. Enquanto conversamos me ajudou muito com algumas dúvidas, fez um ótimo trabalho.<br>
-`Christian Varandas`:
+`Christian Varandas`: Christian fez a parte da documentação e me ajudou bastante na parte dos código quando eu estava com dificuldade, fez um ótimo trabalho.
